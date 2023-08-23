@@ -1,0 +1,2 @@
+# netcoreapp
+netcoreapp-cicd
